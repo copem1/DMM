@@ -1,0 +1,3 @@
+../Core/Src/DMM.c:8:6:timer_init	4	static,ignoring_inline_asm
+../Core/Src/DMM.c:53:6:toString	56	static
+../Core/Src/DMM.c:90:6:comp_init	4	static

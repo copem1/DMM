@@ -1,0 +1,4 @@
+../Core/Src/UART.c:10:6:UART_init	4	static,ignoring_inline_asm
+../Core/Src/UART.c:39:6:UART_print	24	static
+../Core/Src/UART.c:45:6:UART_print_str	24	static
+../Core/Src/UART.c:51:6:UART_ESC_code	24	static

@@ -1,0 +1,12 @@
+../Core/Src/main.c:54:5:main	112	static
+../Core/Src/main.c:207:6:TIM2_IRQHandler	4	static
+../Core/Src/main.c:219:6:ADC1_2_IRQHandler	4	static
+../Core/Src/main.c:226:6:display_freq	16	static
+../Core/Src/main.c:232:6:display_DC	16	static
+../Core/Src/main.c:239:6:display_RMS	16	static
+../Core/Src/main.c:246:6:display_P2P	16	static
+../Core/Src/main.c:253:6:display_dcvoltage	24	static
+../Core/Src/main.c:266:6:display_acvoltage	24	static
+../Core/Src/main.c:277:6:build_graph	16	static
+../Core/Src/main.c:309:6:SystemClock_Config	96	static
+../Core/Src/main.c:357:6:Error_Handler	4	static,ignoring_inline_asm
